@@ -3,6 +3,8 @@ representative truth tables (RTTs) mentioned in [1]. The code is compiled with M
 
 The following files are needed to run the code:
 
+"ADK9.txt":           Contains the integer values corresponding to the vector space representations of the nonzero elements in GF(2^9).
+
 "ADK11.txt":          Contains the integer values corresponding to the vector space representations of the nonzero elements in GF(2^{11}).
 
 "ADK15.txt":          Contains the integer values corresponding to the vector space representations of the nonzero elements in GF(2^{15}).
