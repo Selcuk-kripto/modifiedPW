@@ -1,5 +1,5 @@
 The code "generate_tts.cpp" produces and saves the truth tables of the Boolean functions which are obtained from the 
-representative truth tables (RTTs) given in [1]. The code is compiled with Microsoft Visual C++ 2010.
+representative truth tables (RTTs) mentioned in [1]. The code is compiled with Microsoft Visual C++ 2010.
 
 The following files are needed to run the code:
 
@@ -14,6 +14,8 @@ The following files are needed to run the code:
 "EC15_5.txt":         Contains the 93 equivalency classes for k=5.
 
 The code generates the following files:
+
+"TTs9.txt":   The truth tables of the 7  Boolean functions for the 9-variable case (mentioned in Remark).
 
 "TTs11.txt":  The truth tables of the 13  Boolean functions for the 11-variable case (given in Table 5 in [1]).
 
